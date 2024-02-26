@@ -1,0 +1,9 @@
+[font]
+size = 24
+
+[font.normal]
+family = "CaskaydiaMono Nerd Font"
+style = "Regular"
+
+[window]
+opacity: 0.0
